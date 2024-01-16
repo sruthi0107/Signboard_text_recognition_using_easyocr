@@ -1,0 +1,9 @@
+easyocr
+pyttsx3
+google_trans_new
+cv2
+tkinter
+PIL
+flask
+os
+numpy
